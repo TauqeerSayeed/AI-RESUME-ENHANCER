@@ -9,7 +9,7 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
     <img src="https://img.shields.io/github/languages/top/Tausif001/AI-Resume-enhancer?color=red" alt="language" />
     <img src="https://img.shields.io/github/languages/code-size/Tausif001/AI-Resume-enhancer?color=informational" alt="code size" />
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Tausif001.AI-Resume-enhancer&left_color=grey&right_color=blueviolet" alt="visitors count" />
+    <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Tausif001.AI-Resume-enhancer&left_color=grey&right_color=blueviolet" alt="visitors count" /> -->
     <a href="https://github.com/Tausif001/AI-Resume-enhancer/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/Tausif001/AI-Resume-enhancer.svg?color=yellow" alt="license" />
     </a>
