@@ -143,7 +143,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone https://github.com/Tausif001/AI-RESUME-ENHANCER.git
+git clone https://github.com/TauqeerSayeed/AI-RESUME-ENHANCER.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
